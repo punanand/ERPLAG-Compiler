@@ -8,10 +8,10 @@ ERPLAG is a strongly typed, compiled language. It is minimalist because it curre
 ## How to build
 The code has been tested in Ubuntu >= 16.04, and the README has been prepared accordingly. Users of other OSes will need to figure out the equivalent commands or supporting software wherever applicable.
 1. Clone the repository  
-	 `$ git clone https://github.com/MayankJasoria/Compiler-Project.git`
+	 `$ git clone https://github.com/punanand/ERPLAG-Compiler.git`
 2. Build  
 	```
-	$ cd Compiler-Project  
+	$ cd ERPLAG-Compiler  
 	$ make
 	``` 
 
